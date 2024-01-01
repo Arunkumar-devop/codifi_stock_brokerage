@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+codifi_stock_brokerage/docs/current
+node_modules/
